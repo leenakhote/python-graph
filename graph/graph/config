@@ -1,0 +1,5 @@
+
+host = 'localhost'
+database = 'stats'
+user = 'root'
+password = 'root'
